@@ -18,3 +18,4 @@ Overall, this project allowed me to apply my data analysis, machine learning, an
 <a href="https://www.hackerrank.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jjkrasnick" height="60" width="60" /></a>
 </p>
 
+
